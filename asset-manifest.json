@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shuffling2/static/css/main.89ffe34c.chunk.css",
+    "main.js": "/shuffling2/static/js/main.d422645c.chunk.js",
+    "main.js.map": "/shuffling2/static/js/main.d422645c.chunk.js.map",
+    "runtime~main.js": "/shuffling2/static/js/runtime~main.a8a8fa16.js",
+    "runtime~main.js.map": "/shuffling2/static/js/runtime~main.a8a8fa16.js.map",
+    "static/js/2.6d328d6d.chunk.js": "/shuffling2/static/js/2.6d328d6d.chunk.js",
+    "static/js/2.6d328d6d.chunk.js.map": "/shuffling2/static/js/2.6d328d6d.chunk.js.map",
+    "index.html": "/shuffling2/index.html",
+    "precache-manifest.76dca443c67365e9bb5f00c5cf0dc773.js": "/shuffling2/precache-manifest.76dca443c67365e9bb5f00c5cf0dc773.js",
+    "service-worker.js": "/shuffling2/service-worker.js",
+    "static/css/main.89ffe34c.chunk.css.map": "/shuffling2/static/css/main.89ffe34c.chunk.css.map"
+  }
+}
